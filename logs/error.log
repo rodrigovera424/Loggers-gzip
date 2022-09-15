@@ -1,0 +1,6 @@
+2022/09/04 23:42:35 [error] 22888#32980: *1 CreateFile() "C:\Users\david\Downloads\nginx-1.23.1\nginx-1.23.1/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2022/09/05 00:11:18 [notice] 7780#30380: signal process started
+2022/09/05 00:24:38 [error] 5620#16432: *1 "./NodeServer/public/index.html" is not found (3: The system cannot find the path specified), client: 127.0.0.1, server: nginx_node, request: "GET / HTTP/1.1", host: "localhost"
+2022/09/05 00:25:33 [error] 5620#16432: *1 "./NodeServer/public/index.html" is not found (3: The system cannot find the path specified), client: 127.0.0.1, server: nginx_node, request: "GET / HTTP/1.1", host: "localhost"
+2022/09/05 00:25:52 [notice] 14192#33752: signal process started
+2022/09/05 00:26:07 [error] 27304#27916: *1 "./NodeServer/public/index.html" is not found (3: The system cannot find the path specified), client: 127.0.0.1, server: nginx_node, request: "GET / HTTP/1.1", host: "localhost"
